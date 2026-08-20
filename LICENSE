@@ -1,0 +1,135 @@
+Softboundless Mod License 1.0
+
+Copyright (c) 2026 Peacefull02 (AKA softboundless)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to use, copy, modify, merge, publish, distribute,
+sublicense, and/or redistribute copies of the Software, subject to
+the following conditions:
+
+1. LICENSE NOTICE
+
+The above copyright notice and this license shall be included in all
+copies or substantial portions of the Software.
+
+This license may not be removed from redistributed copies of the
+Software or from modified versions derived from the Software.
+
+2. MODIFICATIONS AND REDISTRIBUTION
+
+The Software may be modified, forked, ported, redistributed, and
+included in Minecraft modpacks, except as specifically restricted
+by Section 3 of this License.
+
+Modified versions and derivative works based on the Software remain
+subject to the restrictions in Section 3 when they contain any
+substantial portion of the Software.
+
+3. FREAKLAND MODPACK RESTRICTION
+
+Except as provided in Section 4, the Software, including modified,
+forked, ported, renamed, or otherwise derivative versions of the
+Software, may not be included, bundled, distributed, or otherwise
+made available as part of a Minecraft modpack whose title, display
+name, project name, slug, or primary branding contains any of the
+following terms, case-insensitively:
+
+- "Freakland"
+- "Freak Land"
+- "Freak-Land"
+
+This restriction includes, but is not limited to, names such as:
+
+- Freakland
+- Freakland Create
+- Freakland Reborn
+- Freakland Remake
+- Freakland Ultimate
+- Unofficial Freakland
+- Freak Land Create
+- Freak-Land Create
+
+Changing capitalization, spacing, punctuation, or adding additional
+words does not avoid this restriction if the modpack still uses one
+of the restricted terms listed above.
+
+4. LICENSOR'S OWN MODPACKS AND AUTHORIZED MODPACKS
+
+The restriction in Section 3 does not apply to Minecraft modpacks
+published, maintained, or officially authorized by the Licensor.
+
+For the purposes of this License, the "Licensor" is:
+
+Peacefull02 (AKA softboundless)
+
+This includes, without limitation:
+
+- the Modrinth account "peacefull02";
+- the CurseForge account "peacefull02";
+- the GitHub account "softboundless";
+- any other account, organization, project, or publishing identity
+  that the Licensor publicly identifies as being owned or controlled
+  by the Licensor.
+
+The Licensor may use the Software in the Licensor's own modpacks
+regardless of whether their names contain "Freakland", "Freak Land",
+"Freak-Land", or any other restricted term listed in Section 3.
+
+A third party may also use the Software in a modpack otherwise
+restricted by Section 3 if that third party has received prior
+written permission from the Licensor.
+
+Such permission may be granted by the Licensor through a publicly
+verifiable or direct written communication, including, for example,
+a GitHub message, CurseForge message, email, or another written
+communication attributable to the Licensor.
+
+5. NO CIRCUMVENTION
+
+A person may not circumvent the restriction in Section 3 by:
+
+- redistributing a modified or renamed version of the Software;
+- creating a fork or port of the Software;
+- changing the Software's file name, project name, package name,
+  mod identifier, or branding;
+- removing or replacing this License;
+- distributing the Software through an intermediary for inclusion
+  in a Restricted Modpack.
+
+The permissions granted by this License are conditional upon
+compliance with its terms.
+
+6. TERMINATION
+
+If a person violates the terms of this License, the permissions
+granted to that person under this License terminate automatically
+for the duration of the violation.
+
+Permissions may be restored if the violation is fully corrected and
+the Software is no longer used or distributed in violation of this
+License.
+
+The Licensor may separately grant written permission or waive a
+specific restriction for a particular person, project, or modpack.
+
+7. TRADEMARKS AND PROJECT NAMES
+
+This License grants rights to the Software only.
+
+It does not grant any rights to use the Licensor's names, usernames,
+logos, project branding, or other identifiers in a manner that
+suggests sponsorship, endorsement, affiliation, or official status
+where no such relationship exists.
+
+8. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
