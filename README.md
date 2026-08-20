@@ -8,7 +8,7 @@
   [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
   [![NeoForge](https://img.shields.io/badge/NeoForge-21.1.244-E1782C?style=flat-square)](https://neoforged.net/)
   [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net/)
-  [![Build](https://img.shields.io/github/actions/workflow/status/softboundless/ServerChest/build.yml?branch=main&style=flat-square&label=build)](https://github.com/softboundless/ServerChest/actions/workflows/build.yml)
+  ![Status](https://img.shields.io/badge/status-implemented-green?style=flat-square)
   [![License](https://img.shields.io/badge/license-Softboundless%201.0-4C1?style=flat-square)](LICENSE)
 
   [English](#english) • [Русский](#russian)
