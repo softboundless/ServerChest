@@ -91,30 +91,6 @@ As a result, inspecting another Server Chest does not combine the full history. 
 
 Vanilla hoppers and droppers, as well as compatible automation systems including Create funnels and chutes, cannot access the inventory. Only a player using the chest interface can move items.
 
-### 🧑‍💻 For developers
-
-The project is based on the official [NeoForge MDK](https://github.com/neoforged/MDK) and uses ModDevGradle. JDK 21 is required for development; a separate Gradle installation is not necessary.
-
-#### Building from source
-
-Windows PowerShell:
-
-```powershell
-.\gradlew.bat build
-.\gradlew.bat runClient
-.\gradlew.bat runServer
-```
-
-Linux / macOS:
-
-```bash
-./gradlew build
-./gradlew runClient
-./gradlew runServer
-```
-
-The built mod will be written to `build/libs/serverchest-1.0.0.jar`.
-
 ### 📄 License
 
 The source code is distributed under the custom [Softboundless Mod License 1.0](LICENSE).
@@ -200,38 +176,8 @@ D — minecraft:ender_chest
 
 Обычные воронки, выбрасыватели и совместимые системы автоматизации, включая воронки и жёлобы Create, не получают доступ к инвентарю. Предметы может перемещать только игрок через интерфейс сундука.
 
-### 🧑‍💻 Для разработчиков
-
-Проект основан на официальном [NeoForge MDK](https://github.com/neoforged/MDK) и использует ModDevGradle. Для разработки нужен JDK 21; отдельная установка Gradle не требуется.
-
-#### Сборка из исходников
-
-Windows PowerShell:
-
-```powershell
-.\gradlew.bat build
-.\gradlew.bat runClient
-.\gradlew.bat runServer
-```
-
-Linux / macOS:
-
-```bash
-./gradlew build
-./gradlew runClient
-./gradlew runServer
-```
-
-Готовый файл появится в `build/libs/serverchest-1.0.0.jar`.
-
 ### 📄 Лицензия
 
 Исходный код распространяется по пользовательской лицензии [Softboundless Mod License 1.0](LICENSE).
 
 Она разрешает использование, изменение, публикацию, распространение и включение мода в сборки при соблюдении её условий. Обратите внимание: лицензия содержит отдельное ограничение для сторонних модпаков, в названии или основном брендинге которых используется **Freakland**, **Freak Land** или **Freak-Land**. Полный и юридически значимый текст находится в файле [LICENSE](LICENSE).
-
----
-
-<div align="center">
-  Сделано с 💚 для серверов Minecraft
-</div>
